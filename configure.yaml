@@ -1,0 +1,9 @@
+data_root_path : data
+raw_data_name : raw_data
+new_data_name : new_data
+
+train_ratio : 0.8
+random_seed : 42
+
+inference_model : "UNet3Plus"
+inference_img_size : 1024
