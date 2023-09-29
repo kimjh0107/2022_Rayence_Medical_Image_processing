@@ -1,5 +1,8 @@
 ## 2022 Yonsei Univ. Rayence Lung and Heart Segmentation
 
+<img width="612" alt="image" src="https://github.com/kimjh0107/2022_Rayence_Medical_Image_processing/assets/83206535/d5744bae-2f80-43a5-82d9-77aa5b5d279d">
+
+
 ## 0. Setting Environments
 python version : 3.9.7
 ```
